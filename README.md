@@ -45,3 +45,5 @@ pip install python-telegram-bot requests
 
  - Поддержка большего количества языков
  - Подписка на ежедневный прогноз погоды в выбранном городе
+# Пример работы
+[![weather-bot-photo.jpg](https://i.postimg.cc/xTn2rDzT/weather-bot-photo.jpg)](https://postimg.cc/vDqj9Khp)
